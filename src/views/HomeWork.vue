@@ -11,7 +11,7 @@
   </div>
 </template>
 <script>
-import SubjectPanel from '../components/SubjectPanel.vue'
+import SubjectPanel from '@/components/SubjectPanel.vue'
 export default {
   name: 'HomeWork',
   components: {
